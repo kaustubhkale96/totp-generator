@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:bellstrand/totp-generator.git"
+    "url": "git@github.com:kaustubhkale96/totp-generator.git"
   },
   "scripts": {
     "test": "jest",
@@ -26,9 +26,9 @@
   "author": "Magnus Bellstrand",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bellstrand/totp-generator/issues"
+    "url": "https://github.com/kaustubhkale96/totp-generator/tree/kaustubhkale96-patch-1/issues"
   },
-  "homepage": "https://github.com/bellstrand/totp-generator",
+  "homepage": "https://github.com/kaustubhkale96/totp-generator/tree/kaustubhkale96-patch-1",
   "dependencies": {
     "jssha": "^3.1.2"
   },
